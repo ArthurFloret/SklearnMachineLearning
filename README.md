@@ -6,6 +6,7 @@ You will find in this directory the implementation of all these methods as well 
 In this document, you will find the complete description of each script in .py and .ipynb format.
 
 ## Acknowledgements
+Thanks me !
 
 ## Bibliography
 
